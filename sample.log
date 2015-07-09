@@ -1,0 +1,203 @@
+2589 [main] INFO  unit.CheckLicenseExpyTest  - ---------------------------- TEST START ------------------------------------
+2589 [main] INFO  unit.CheckLicenseExpyTest  - ***************************** CheckLicenseExpyTest ********************************
+29827 [main] INFO  unit.CheckLicenseExpyTest  - User Login Successful
+50201 [main] INFO  unit.CheckLicenseExpyTest  - Checking License Details
+53170 [main] INFO  unit.CheckLicenseExpyTest  - Assert the Licensed users is set to: 2000
+53686 [main] INFO  unit.CheckLicenseExpyTest  - Assert the Support Period is available until Jun 29, 2015
+63204 [main] INFO  unit.CheckLicenseExpyTest  - Assert the Gliffy plugin
+63314 [main] INFO  unit.CheckLicenseExpyTest  - Assert the License Status is Valid
+64331 [main] INFO  unit.CheckLicenseExpyTest  - User Logout was Successful
+64331 [main] INFO  unit.CheckLicenseExpyTest  - ----------------------------- TEST END -------------------------------------
+69441 [main] INFO  unit.AuthUserTest  - ---------------------------- TEST START ------------------------------------
+69441 [main] INFO  unit.AuthUserTest  - ***************************** AuthUserTest ********************************
+87872 [main] INFO  unit.AuthUserTest  - User Login Successful
+108394 [main] INFO  unit.AuthUserTest  - Edit Page
+115151 [main] INFO  unit.AuthUserTest  - Save changes
+123624 [main] INFO  unit.SpaceManipulationTest  - ---------------------------- TEST START ------------------------------------
+123625 [main] INFO  unit.SpaceManipulationTest  - ***************************** SpaceManipulationTest ********************************
+143102 [main] INFO  unit.SpaceManipulationTest  - User Login Successful
+156450 [main] INFO  unit.SpaceManipulationTest  - Checking for Spaces present
+186183 [main] INFO  unit.SpaceManipulationTest  - Assert Page Title
+187681 [main] INFO  unit.SpaceManipulationTest  - Assert permissions for confluence-users
+188525 [main] INFO  unit.SpaceManipulationTest  - Checking All permissions in the table
+255357 [main] INFO  unit.SpaceManipulationTest  - Creating a new Space
+260324 [main] INFO  unit.ToolsPageTest  - ---------------------------- TEST START ------------------------------------
+260324 [main] INFO  unit.ToolsPageTest  - ***************************** ToolsPageTest ********************************
+274816 [main] INFO  unit.ToolsPageTest  - Creating a new Page
+325739 [main] INFO  unit.ToolsPageTest  - Asserting new Page Title
+333160 [main] INFO  unit.ToolsPageTest  - Testing main Page functionality
+372942 [main] INFO  unit.AddonsManipulationTesting  - ---------------------------- TEST START ------------------------------------
+372942 [main] INFO  unit.AddonsManipulationTesting  - ***************************** AddonsManipulationTesting ********************************
+392854 [main] INFO  unit.AddonsManipulationTesting  - User Login Successful
+458406 [main] INFO  unit.InactiveUsersMacroTest  - ---------------------------- TEST START ------------------------------------
+458406 [main] INFO  unit.InactiveUsersMacroTest  - ***************************** InactiveUsersMacroTest ********************************
+522708 [main] INFO  unit.InactiveUsersMacroTest  - User Login Successful
+583780 [main] INFO  unit.InactiveUsersMacroTest  - Validating the date
+587787 [main] INFO  unit.InactiveUsersMacroTest  - User Logout was Successful
+587787 [main] INFO  unit.InactiveUsersMacroTest  - ----------------------------- TEST END -------------------------------------
+592668 [main] INFO  unit.AdminApplicationLinksTest  - ---------------------------- TEST START ------------------------------------
+592668 [main] INFO  unit.AdminApplicationLinksTest  - ***************************** AdminApplicationLinksTest ********************************
+681204 [main] INFO  unit.AdminApplicationLinksTest  - User Login Successful
+692134 [main] INFO  unit.AdminApplicationLinksTest  - Validation of Jira Issue Filter was successful
+712974 [main] INFO  unit.AdminApplicationLinksTest  - Testing Search feature of Jira existing issues
+748111 [main] INFO  unit.AdminApplicationLinksTest  - User Login as Admin was Successful
+762157 [main] INFO  unit.AdminApplicationLinksTest  - Validating Outgoing and Incoming Authentication
+815823 [main] INFO  unit.AdminApplicationLinksTest  - User Logout was Successful
+815823 [main] INFO  unit.AdminApplicationLinksTest  - ----------------------------- TEST END -------------------------------------
+820775 [main] INFO  unit.UserConfigTest  - ---------------------------- TEST START ------------------------------------
+820775 [main] INFO  unit.UserConfigTest  - ***************************** UserConfigTest ********************************
+844605 [main] INFO  unit.UserConfigTest  - User Login Successful
+862315 [main] INFO  unit.UserConfigTest  - Assert the Server Base URL
+866169 [main] INFO  unit.UserConfigTest  - Verifying that Backup Administration: Perform backups is Dissabled
+870743 [main] INFO  unit.UserConfigTest  - Check all 4 links under External Gadgets
+2599 [main] INFO  unit.AuthUserTest  - ---------------------------- TEST START ------------------------------------
+2611 [main] INFO  unit.AuthUserTest  - ***************************** AuthUserTest ********************************
+26676 [main] INFO  unit.AuthUserTest  - User Login Successful
+45118 [main] INFO  unit.AuthUserTest  - Edit Page
+52072 [main] INFO  unit.AuthUserTest  - Save changes
+59662 [main] INFO  unit.AuthUserTest  - User Logout was Successful
+67264 [main] INFO  unit.AuthUserTest  - Verifying that Anon user cannot Edit a page
+67264 [main] INFO  unit.AuthUserTest  - ----------------------------- TEST END -------------------------------------
+2903 [main] INFO  unit.SpaceManipulationTest  - ---------------------------- TEST START ------------------------------------
+2905 [main] INFO  unit.SpaceManipulationTest  - ***************************** SpaceManipulationTest ********************************
+20664 [main] INFO  unit.SpaceManipulationTest  - User Login Successful
+33104 [main] INFO  unit.SpaceManipulationTest  - Checking for Spaces present
+61183 [main] INFO  unit.SpaceManipulationTest  - Assert Page Title
+62410 [main] INFO  unit.SpaceManipulationTest  - Assert permissions for confluence-users
+63425 [main] INFO  unit.SpaceManipulationTest  - Checking All permissions in the table
+106345 [main] INFO  unit.SpaceManipulationTest  - Creating a new Space
+2718 [main] INFO  unit.SpaceManipulationTest  - ---------------------------- TEST START ------------------------------------
+2719 [main] INFO  unit.SpaceManipulationTest  - ***************************** SpaceManipulationTest ********************************
+20737 [main] INFO  unit.SpaceManipulationTest  - User Login Successful
+34056 [main] INFO  unit.SpaceManipulationTest  - Checking for Spaces present
+63379 [main] INFO  unit.SpaceManipulationTest  - Assert Page Title
+64472 [main] INFO  unit.SpaceManipulationTest  - Assert permissions for confluence-users
+65440 [main] INFO  unit.SpaceManipulationTest  - Checking All permissions in the table
+130606 [main] INFO  unit.SpaceManipulationTest  - Creating a new Space
+2772 [main] INFO  unit.SpaceManipulationTest  - ---------------------------- TEST START ------------------------------------
+2772 [main] INFO  unit.SpaceManipulationTest  - ***************************** SpaceManipulationTest ********************************
+2545 [main] INFO  unit.SpaceManipulationTest  - ---------------------------- TEST START ------------------------------------
+2546 [main] INFO  unit.SpaceManipulationTest  - ***************************** SpaceManipulationTest ********************************
+24199 [main] INFO  unit.SpaceManipulationTest  - User Login Successful
+38438 [main] INFO  unit.SpaceManipulationTest  - Checking for Spaces present
+58844 [main] INFO  unit.SpaceManipulationTest  - Assert Page Title
+58970 [main] INFO  unit.SpaceManipulationTest  - Assert permissions for confluence-users
+59017 [main] INFO  unit.SpaceManipulationTest  - Checking All permissions in the table
+103873 [main] INFO  unit.SpaceManipulationTest  - Creating a new Space
+120143 [main] INFO  unit.SpaceManipulationTest  - Checking the new Space Permissions
+132266 [main] INFO  unit.SpaceManipulationTest  - Deleting the new Space
+146476 [main] INFO  unit.SpaceManipulationTest  - User Logout was Successful
+146476 [main] INFO  unit.SpaceManipulationTest  - ----------------------------- TEST END -------------------------------------
+38214 [main] INFO  unit.ToolsPageTest  - ---------------------------- TEST START ------------------------------------
+38246 [main] INFO  unit.ToolsPageTest  - ***************************** ToolsPageTest ********************************
+74047 [main] INFO  unit.ToolsPageTest  - Creating a new Page
+3362 [main] INFO  unit.SpaceManipulationTest  - ---------------------------- TEST START ------------------------------------
+3364 [main] INFO  unit.SpaceManipulationTest  - ***************************** SpaceManipulationTest ********************************
+28694 [main] INFO  unit.SpaceManipulationTest  - User Login Successful
+36317 [main] INFO  unit.SpaceManipulationTest  - Checking for Spaces present
+54363 [main] INFO  unit.SpaceManipulationTest  - Assert Page Title
+54442 [main] INFO  unit.SpaceManipulationTest  - Assert permissions for confluence-users
+54504 [main] INFO  unit.SpaceManipulationTest  - Checking All permissions in the table
+95511 [main] INFO  unit.SpaceManipulationTest  - Creating a new Space
+4810 [main] INFO  unit.ToolsPageTest  - ---------------------------- TEST START ------------------------------------
+4810 [main] INFO  unit.ToolsPageTest  - ***************************** ToolsPageTest ********************************
+28584 [main] INFO  unit.ToolsPageTest  - Creating a new Page
+49179 [main] INFO  unit.ToolsPageTest  - Asserting new Page Title
+64854 [main] INFO  unit.ToolsPageTest  - Testing main Page functionality
+3707 [main] INFO  unit.ToolsPageTest  - ---------------------------- TEST START ------------------------------------
+3707 [main] INFO  unit.ToolsPageTest  - ***************************** ToolsPageTest ********************************
+50809 [main] INFO  unit.ToolsPageTest  - Creating a new Page
+89561 [main] INFO  unit.ToolsPageTest  - Asserting new Page Title
+100887 [main] INFO  unit.ToolsPageTest  - Testing main Page functionality
+126367 [main] INFO  unit.ToolsPageTest  - Make a copy of the Test page
+139788 [main] INFO  unit.ToolsPageTest  - Delete the Page Copy
+157056 [main] INFO  unit.ToolsPageTest  - Delete the original Test Page
+160976 [main] INFO  unit.ToolsPageTest  - User Logout was Successful
+160976 [main] INFO  unit.ToolsPageTest  - ----------------------------- TEST END -------------------------------------
+3517 [main] INFO  unit.AddonsManipulationTesting  - ---------------------------- TEST START ------------------------------------
+3517 [main] INFO  unit.AddonsManipulationTesting  - ***************************** AddonsManipulationTesting ********************************
+30335 [main] INFO  unit.AddonsManipulationTesting  - User Login Successful
+58217 [main] INFO  unit.AddonsManipulationTesting  - Display all Add-ons
+80881 [main] INFO  unit.AddonsManipulationTesting  - Validating System Add-ons
+90800 [main] INFO  unit.AddonsManipulationTesting  - Opening Calendars tab
+100321 [main] INFO  unit.AddonsManipulationTesting  - User Logout was Successful
+100321 [main] INFO  unit.AddonsManipulationTesting  - ----------------------------- TEST END -------------------------------------
+2723 [main] INFO  unit.UserConfigTest  - ---------------------------- TEST START ------------------------------------
+2724 [main] INFO  unit.UserConfigTest  - ***************************** UserConfigTest ********************************
+28791 [main] INFO  unit.UserConfigTest  - User Login Successful
+52312 [main] INFO  unit.UserConfigTest  - Assert the Server Base URL
+59627 [main] INFO  unit.UserConfigTest  - Verifying that Backup Administration: Perform backups is Dissabled
+70062 [main] INFO  unit.UserConfigTest  - Check all 4 links under External Gadgets
+4161 [main] INFO  unit.UserConfigTest  - ---------------------------- TEST START ------------------------------------
+4161 [main] INFO  unit.UserConfigTest  - ***************************** UserConfigTest ********************************
+32903 [main] INFO  unit.UserConfigTest  - User Login Successful
+57103 [main] INFO  unit.UserConfigTest  - Assert the Server Base URL
+64181 [main] INFO  unit.UserConfigTest  - Verifying that Backup Administration: Perform backups is Dissabled
+74567 [main] INFO  unit.UserConfigTest  - Check all 4 links under External Gadgets
+79432 [main] INFO  unit.UserConfigTest  - Accessing the Administration Configuration
+83363 [main] INFO  unit.UserConfigTest  - Checking all Scheduled Jobs
+85517 [main] INFO  unit.UserConfigTest  - Checking that Back Up Confluence option is Disabled
+85580 [main] INFO  unit.UserConfigTest  - Verifying that Check Cluster Safety: Scheduled
+87639 [main] INFO  unit.UserConfigTest  - Verifying that Send Recomended Updates Email: Scheduled
+101264 [main] INFO  unit.UserConfigTest  - Accessing Users & Security Configuration
+105598 [main] INFO  unit.UserConfigTest  - Validating Global Permissions
+106103 [main] INFO  unit.UserConfigTest  - All Permissions for confluence-administrators have passed
+106540 [main] INFO  unit.UserConfigTest  - All Permissions for confluence-users have passed
+108708 [main] INFO  unit.UserConfigTest  - All Permissions for Anonymous users have passed
+117773 [main] INFO  unit.UserConfigTest  - User Logout was Successful
+117773 [main] INFO  unit.UserConfigTest  - ----------------------------- TEST END -------------------------------------
+11016 [main] INFO  unit.SpaceManipulationTest  - ---------------------------- TEST START ------------------------------------
+11017 [main] INFO  unit.SpaceManipulationTest  - ***************************** SpaceManipulationTest ********************************
+29184 [main] INFO  unit.SpaceManipulationTest  - User Login Successful
+41629 [main] INFO  unit.SpaceManipulationTest  - Checking for Spaces present
+3175 [main] INFO  unit.SpaceManipulationTest  - ---------------------------- TEST START ------------------------------------
+3175 [main] INFO  unit.SpaceManipulationTest  - ***************************** SpaceManipulationTest ********************************
+19866 [main] INFO  unit.SpaceManipulationTest  - User Login Successful
+28715 [main] INFO  unit.SpaceManipulationTest  - Checking for Spaces present
+50255 [main] INFO  unit.SpaceManipulationTest  - Assert Page Title
+50319 [main] INFO  unit.SpaceManipulationTest  - Assert permissions for confluence-users
+50350 [main] INFO  unit.SpaceManipulationTest  - Checking All permissions in the table
+91184 [main] INFO  unit.SpaceManipulationTest  - Creating a new Space
+3298 [main] INFO  unit.SpaceManipulationTest  - ---------------------------- TEST START ------------------------------------
+3298 [main] INFO  unit.SpaceManipulationTest  - ***************************** SpaceManipulationTest ********************************
+21095 [main] INFO  unit.SpaceManipulationTest  - User Login Successful
+33692 [main] INFO  unit.SpaceManipulationTest  - Checking for Spaces present
+62685 [main] INFO  unit.SpaceManipulationTest  - Assert Page Title
+63575 [main] INFO  unit.SpaceManipulationTest  - Assert permissions for confluence-users
+64059 [main] INFO  unit.SpaceManipulationTest  - Checking All permissions in the table
+123895 [main] INFO  unit.SpaceManipulationTest  - Creating a new Space
+140604 [main] INFO  unit.SpaceManipulationTest  - Checking the new Space Permissions
+149574 [main] INFO  unit.SpaceManipulationTest  - Deleting the new Space
+2893 [main] INFO  unit.CheckLicenseExpyTest  - ---------------------------- TEST START ------------------------------------
+2893 [main] INFO  unit.CheckLicenseExpyTest  - ***************************** CheckLicenseExpyTest ********************************
+19771 [main] INFO  unit.CheckLicenseExpyTest  - User Login Successful
+28205 [main] INFO  unit.CheckLicenseExpyTest  - Checking License Details
+30360 [main] INFO  unit.CheckLicenseExpyTest  - Assert the Licensed users is set to: 2000
+30501 [main] INFO  unit.CheckLicenseExpyTest  - Assert the Support Period is available until Jun 29, 2015
+38940 [main] INFO  unit.CheckLicenseExpyTest  - Assert the Gliffy plugin
+39050 [main] INFO  unit.CheckLicenseExpyTest  - Assert the License Status is Valid
+39939 [main] INFO  unit.CheckLicenseExpyTest  - User Logout was Successful
+39939 [main] INFO  unit.CheckLicenseExpyTest  - ----------------------------- TEST END -------------------------------------
+3280 [main] INFO  unit.AddonsManipulationTesting  - ---------------------------- TEST START ------------------------------------
+3296 [main] INFO  unit.AddonsManipulationTesting  - ***************************** AddonsManipulationTesting ********************************
+18366 [main] INFO  unit.AddonsManipulationTesting  - User Login Successful
+42501 [main] INFO  unit.AddonsManipulationTesting  - Display all Add-ons
+55621 [main] INFO  unit.AddonsManipulationTesting  - Validating System Add-ons
+59288 [main] INFO  unit.AddonsManipulationTesting  - Opening Calendars tab
+2961 [main] INFO  unit.AuthUserTest  - ---------------------------- TEST START ------------------------------------
+2962 [main] INFO  unit.AuthUserTest  - ***************************** AuthUserTest ********************************
+20474 [main] INFO  unit.AuthUserTest  - User Login Successful
+26659 [main] INFO  unit.AuthUserTest  - GridFunctionalTestData.xlsx
+47904 [main] INFO  unit.AuthUserTest  - Edit Page
+54980 [main] INFO  unit.AuthUserTest  - Save changes
+62054 [main] INFO  unit.AuthUserTest  - User Logout was Successful
+79010 [main] INFO  unit.AuthUserTest  - Verifying that Anon user cannot Edit a page
+79010 [main] INFO  unit.AuthUserTest  - ----------------------------- TEST END -------------------------------------
+95450 [main] INFO  unit.SpaceManipulationTest  - ---------------------------- TEST START ------------------------------------
+95513 [main] INFO  unit.SpaceManipulationTest  - ***************************** SpaceManipulationTest ********************************
+207592 [main] INFO  unit.SpaceManipulationTest  - User Login Successful
+234333 [main] INFO  unit.SpaceManipulationTest  - Checking for Spaces present
+33367 [main] INFO  unit.AuthUserTest  - ---------------------------- TEST START ------------------------------------
+33381 [main] INFO  unit.AuthUserTest  - ***************************** AuthUserTest ********************************
+53741 [main] INFO  unit.AuthUserTest  - User Login Successful
+60788 [main] INFO  unit.AuthUserTest  - GridFunctionalTestData.xlsx

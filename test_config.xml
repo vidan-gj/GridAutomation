@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="FunctionalTests" >
+	<test name="testLicense_ExpyDate" >
+		<parameter name="userName" value="vgjoze01"/>
+		<parameter name="password" value="V!d@n123456"/>
+		<classes>
+			<class name="tests.SmokeTests" />
+		</classes>
+	</test>
+</suite>
